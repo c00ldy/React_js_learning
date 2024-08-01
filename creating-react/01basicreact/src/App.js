@@ -1,7 +1,11 @@
+import Chai from "./chai";
+
 
 function App() {
   return (
-<h1>dhruval mevada</h1>
+    <>
+<Chai/>
+</>
   );
 }
 
